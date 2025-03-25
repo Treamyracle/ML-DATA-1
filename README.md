@@ -65,6 +65,6 @@ Jika Anda ingin berkontribusi, silakan buat pull request atau buka issue untuk d
 
 ---
 
-✨ **Author:** [Nama Anda]  
-📧 **Contact:** [Email atau LinkedIn]
+✨ **Author:** [Arif Athaya Harahap]  
+📧 **Contact:** [arifathayaharahap@gmail.com]
 
