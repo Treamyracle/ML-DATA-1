@@ -6,9 +6,9 @@ Proyek ini bertujuan untuk memprediksi emisi CO2 menggunakan model machine learn
 
 ## 📂 Repository Structure
 
-- `notebooks/` : Berisi notebook Jupyter yang digunakan untuk eksplorasi data, pelatihan model, dan evaluasi.
-- `data/` : Dataset yang digunakan dalam proyek ini.
-- `models/` : Model yang telah dilatih dan disimpan.
+- `Notebook.ipynb` : Berisi notebook Jupyter yang digunakan untuk eksplorasi data, pelatihan model, dan evaluasi.
+- `/data/` : Dataset yang digunakan dalam proyek ini.
+- `/models/` : Model yang telah dilatih dan disimpan.
 - `requirements.txt` : Daftar dependensi yang dibutuhkan untuk menjalankan proyek.
 
 ## 🛠 Installation
